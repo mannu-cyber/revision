@@ -29,6 +29,9 @@ It is going to finish the game of centralized servers dependency.
 
 When you open any website `(www.google.com)` your computer talk with server `(another computer)`
 
+![internet](./img/protocol.png)
+
+
 This communication go on in the `HTTP/ HTTPS` protocol . This language only understand by the computers only .
 
 _example_ -> When we human talk with any one in `hindi , english` in the same way computer talk with `server (another computer)` via `HTTP/HTTPS` protocol.

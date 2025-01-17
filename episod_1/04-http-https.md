@@ -46,3 +46,15 @@
 
 - 500 internal server error
 - 503 service unavailable
+
+### 3. HTTPS and Its Advantages Over HTTP
+
+1. `(Hypertext transfer protocol secure)`: It is HTTP with encryption `(secured using SSL/TLS)`
+
+- It ensure that data is encrypted attackers can not read the data.
+- Verifies the identity website via `ssl/tls` certificate.
+- Prevents data alter during transmission.
+- Improved the SEO `( Search Engine Optimization )`
+
+### 4. How HTTPS provide secure connection
+![](./img/https.png)

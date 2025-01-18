@@ -56,5 +56,35 @@
 - Prevents data alter during transmission.
 - Improved the SEO `( Search Engine Optimization )`
 
-### 4. How HTTPS provide secure connection
+### 4. How HTTPS provide secure connection.
+
+- `TLS HandShake` Server send it's identity `TLS/SSL certificate` to client and request for client `identity`.
+
+- Client sends its identity `(certificate)` and client key exchange. HandShake finished ...
+
 ![](./img/https.png)
+
+### 5. `SSL ` ( Secure Sockets Layer) and `TLS ` (Transport Layer Security):
+
+- These are the encryption protocol for safe data transfer.
+
+### 6. `Proxy`:
+
+- A proxy server act as a middle man between client and the internet. Instead of directly connecting to the website, it first got to the proxy server and then connect to the website.
+
+* It block the content and Optimize the internet speed. Provide security and privacy`(hide the IP address)`.
+
+![](./img/proxy.png)
+
+### 7. `Reverse Proxy`:
+
+- It is a proxy server that act as a middle man between the client and the server. Instead of directly request goes to the server it goes to the proxy server and then proxy server decide which server to request the data.
+
+* It is also used to provide security and privacy to the server.
+  It is also known as load balancer.
+
+![](./img/reverse-proxy.png)
+
+### 8. How does VPN work?
+
+- VPN `(Virtual Private Network)` When we use VPN our internet traffic goes via a encrypted tunnel.

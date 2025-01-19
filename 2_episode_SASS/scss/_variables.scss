@@ -1,0 +1,15 @@
+$primary-color: black;
+$secondary-color: purple;
+$font-color: white;
+
+$font: cursive;
+
+body {
+  background-color: $primary-color;
+  color: $font-color;
+  font-family: $font;
+}
+
+h1 {
+  color: $secondary-color;
+}
